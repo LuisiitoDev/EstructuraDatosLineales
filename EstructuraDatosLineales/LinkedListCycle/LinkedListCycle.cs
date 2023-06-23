@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EstructuraDatosLineales
+namespace EstructuraDatosLineales.LinkedListCycle
 {
     internal class Node
     {
